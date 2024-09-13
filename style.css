@@ -1,0 +1,25 @@
+a:link {
+    color:blue; 
+    text-decoration:none
+}
+
+a:visited {
+    color:pink; 
+    text-decoration:none
+}
+
+a:hover {
+    color:red; 
+    text-decoration:underline
+}
+
+a:active {
+    color:yellow; 
+    text-decoration:underline
+}
+ul{
+    display: flex;
+}
+li{
+    margin: 20px;
+}
